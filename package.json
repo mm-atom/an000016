@@ -43,7 +43,7 @@
 	},
 	"peerDependencies": {
 		"@mmstudio/config": "*",
-		"log4js": "latest"
+		"log4js": "*"
 	},
 	"devDependencies": {
 		"@mmstudio/config": "latest",
